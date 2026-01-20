@@ -1,4 +1,3 @@
-
 # Caso de estudio — Documentación del workflow (n8n)
 
 > Workflow n8n: **“Caso de estudio” — AgendaBot**
