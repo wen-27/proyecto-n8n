@@ -191,11 +191,11 @@ flowchart TD
 
 - logica completa de cita 
 
-![alt text](image-2.png)
+![alt text](imagen_2026-01-19_222612217.png)
 
 - logica de tareas
 
-![alt text](image-3.png)
+![alt text](imagen_2026-01-19_222637388.png)
 
 - logica de habitos 
   
