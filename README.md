@@ -187,7 +187,7 @@ flowchart TD
 
 - validacion de si existe o no usuario
 
-![alt text](image-1.png)
+![alt text](imagen_2026-01-19_222543510.png)
 
 - logica completa de cita 
 
